@@ -32,7 +32,7 @@ Vuetify2와 Vue3가 연동이 되지 않아 이에 대한 이슈가 많았다.
 
 
 - vue --version 명령어로 vue-cli의 버전을 확인한다.
- 재 작업중인 프로젝트의 vue-cli version은 `5.0.4` 이다.
+ 현재 작업중인 프로젝트의 vue-cli version은 `5.0.4` 이다.
 - Vue의 버전도 확인해준다.
 현재 프로젝트의 Vue version은 `2.6.14` 이다. Vue를 `3.x.x` 으로 업그레이드해준다.
 
